@@ -1,1 +1,2 @@
 # ncu-practice
+>>>>>>> first commit
